@@ -6,6 +6,8 @@
 
 ## Google Sans Code
 
+![Google Sans Code example](images/google-sans-code.png)
+
 - Google Sans Code is a monospaced typeface from Google designed for code.
 
 ## Download Links

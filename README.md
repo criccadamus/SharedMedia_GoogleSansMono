@@ -2,7 +2,7 @@
 
 - Add the Google Sans Code fonts to `libsharedmedia`-compatible addons.
 
-![Details example](images/details-example.png)
+![Font dropdown example](images/font-dropdown-example.png)
 
 ## Google Sans Code
 

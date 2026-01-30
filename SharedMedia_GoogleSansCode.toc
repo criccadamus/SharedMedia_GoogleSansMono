@@ -1,6 +1,6 @@
 ## Interface: 11508, 11507, 20505, 30405, 38000, 40402, 50503, 50502, 120001, 110207, 120000
 ## Version: @project-version@
-## Title: SharedMedia_GoogleSansMono
+## Title: SharedMedia_GoogleSansCode
 ## Author: criccadamus
 ## Notes: Add the Google Sans Code fonts to SharedMedia addons.
 ## Notes-esES: Add the Google Sans Code fonts to SharedMedia addons.
@@ -17,7 +17,7 @@
 ## X-Category: Miscellaneous
 ## X-Website: https://fonts.google.com/specimen/Google+Sans+Code
 ## X-License: Original project line (SharedMedia_Noto): "All Rights Reserved: You are free to fork and modify on GitHub, please ask us about anything else."
-## X-Wago-ID: qGYZ7ENg
+## X-Wago-ID: ######
 ## OptionalDeps: LibSharedMedia-3.0
 ## X-Embeds: LibSharedMedia-3.0
 
@@ -25,4 +25,4 @@ Libs\LibStub\LibStub.lua
 Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
 Libs\LibSharedMedia-3.0\LibSharedMedia-3.0.lua
 
-SharedMedia_GoogleSansMono.lua
+SharedMedia_GoogleSansCode.lua

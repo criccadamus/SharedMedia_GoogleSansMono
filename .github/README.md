@@ -1,4 +1,4 @@
-# SharedMedia_GoogleSansMono
+# SharedMedia_GoogleSansCode
 
 - Add the Google Sans Code fonts to `libsharedmedia`-compatible addons.
 
